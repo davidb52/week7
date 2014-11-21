@@ -26,7 +26,7 @@
 			<Property Name="SampQuant.SampPerChan" Type="Str">100</Property>
 			<Property Name="SampTimingType" Type="Str">Implicit</Property>
 		</Item>
-		<Item Name="Untitled 6.vi" Type="VI" URL="../Untitled 6.vi"/>
+		<Item Name="FFTKundtsTube.vi" Type="VI" URL="../FFTKundtsTube.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Convert 1DWfm to DDT.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/Convert 1DWfm to DDT.vi"/>
